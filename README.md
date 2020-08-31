@@ -1,2 +1,6 @@
 # HDR-like-Image-Processing
 Combining highlight removal and low-light image enhancement technique for HDR-like image generation
+
+Abstract - Low dynamic range (LDR) image may contain low-light and highlight areas due to the limitations of the dynamic range of conventional image sensors. Low-light and highlight phenomena limit colour richness and visibility of objects in an image. Therefore, it can cause a reduction in the quality of images and a loss in accuracy in the application of image recognition. To overcome this, high dynamic range (HDR)-like images have been developed with rich colours such as those seen by the human eye. In this study, the authors propose a method to obtain an HDR-like image from a single LDR image by removing the specular component from highlight pixels as well as strengthening the actual colour. Next, they select low-light image enhancement via illumination map estimation as a low-light enhancement technique by showing the comparison with gamma-based expansion operator. They evaluate their HDR-like output images with non-reference and full-reference metrics. They show the comparison of their proposed method with six other methods. Besides, visually, their proposed method delivers more pleasing output than the output of other competitive methods.
+
+Full paper link: https://ieeexplore.ieee.org/document/9150105
